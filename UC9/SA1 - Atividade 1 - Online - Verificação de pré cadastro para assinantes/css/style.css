@@ -1,0 +1,27 @@
+body {
+    background-image: url("../img/fundo.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.quadrante {
+    text-align: center;
+    background-color: lightgray;
+    padding: 50px;
+    min-width: 700px;
+    border: 1px solid black;
+    margin-top: 150px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;
+}
+
+img {
+    width: 70px;
+}
+
+.btn {
+    margin: 20px;
+    min-width: 150px;
+}
+
